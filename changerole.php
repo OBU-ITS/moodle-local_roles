@@ -114,7 +114,7 @@ function change_role($role_from, $role_to, $user_array) {
     $successes = array();
 /*    
     foreach ($user_array as $user) {
-        $recipientUser = new Object();
+        $recipientUser = new stdClass();
         $recipientUser->email = $recipient;
         $recipientUser->firstname = '';
         $recipientUser->lastname = '';
