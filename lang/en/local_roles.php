@@ -18,10 +18,12 @@
  *
  * @package    local_roles
  * @author     Peter Welham
- * @copyright  2015, Oxford Brookes University
+ * @copyright  2019, Oxford Brookes University
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  *
  */
+
+$string['privacy:metadata'] = 'The Roles plugin only shows data stored in other locations.';
 
 $string['pluginname'] = 'Roles';
 
